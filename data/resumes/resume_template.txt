@@ -1,0 +1,34 @@
+YOUR FULL NAME
+your.email@gmail.com | +1-555-000-0000
+https://linkedin.com/in/yourprofile | https://github.com/yourusername
+Your City, Country
+
+SUMMARY
+[Write 2-3 sentences about your background, key skills, and what you're looking for]
+
+SKILLS
+Languages: Python, JavaScript, [add yours]
+Frameworks: FastAPI, React, [add yours]
+Infrastructure: AWS, Docker, [add yours]
+Other: [add yours]
+
+EXPERIENCE
+
+[Job Title] — [Company Name] ([Start Year]–[End Year or Present])
+- [Achievement with metric: "Built X which reduced Y by Z%"]
+- [Another achievement]
+- [Another achievement]
+
+[Job Title] — [Company Name] ([Start Year]–[End Year])
+- [Achievement]
+- [Achievement]
+
+EDUCATION
+[Degree] in [Major] — [University Name], [Year]
+
+PROJECTS
+- [Project Name]: [One-line description, link if public]
+- [Project Name]: [One-line description]
+
+CERTIFICATIONS (optional)
+- [Certification Name] — [Issuer], [Year]
